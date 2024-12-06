@@ -1,0 +1,11 @@
+function doPost(e) {
+    const sheetUrl = SpreadsheetApp.openByUrl("<Google Sheet Link>")
+  
+    const sheet = sheetUrl.getSheetByName('Sheet1')
+  
+    let data = e.parameter
+    sheet.appendRow([data.Name,data.Email])
+  
+    return ContentService.createTextOutput('Added..')
+  }
+  

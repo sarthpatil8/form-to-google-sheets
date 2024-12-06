@@ -1,0 +1,29 @@
+.FormToSheet {
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+  }
+  
+  .FormToSheet h1 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .FormToSheet input {
+    padding: 10px;
+    margin: 10px 0;
+    width: 100%;
+  }
+  
+  .FormToSheet button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
