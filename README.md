@@ -1,6 +1,6 @@
 # Form to Google Sheets
 
-# AutoSearch for StackOverflow
+
 
 [![GitHub License](https://img.shields.io/github/license/sarthpatil8/form-to-google-sheets)](https://github.com/sarthpatil8/form-to-google-sheets/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/sarthpatil8/form-to-google-sheets)](https://github.com/sarthpatil8/form-to-google-sheets/stargazers)
